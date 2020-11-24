@@ -1,6 +1,5 @@
 server:
   port: 9092
-myname: admin
 eureka:
   client:
     service-url:
